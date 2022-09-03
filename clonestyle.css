@@ -1,0 +1,138 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    text-align: center;
+
+}
+.top-container{
+    padding-top:100px ;
+    background-color: aliceblue;
+}
+h1{
+    font-family: 'Fleur De Leah', cursive;
+    margin: 30px auto auto auto;
+    color: #66BFBF;
+    font-size: 5em;
+}
+h2{
+    font-family: 'Tangerine', cursive;
+    color: #66BFBF;
+    font-size: 2em;
+}
+.upcloud{
+    position: absolute;
+    right: 20%;
+    top: 15px;
+}
+.downcloud{
+    position: absolute;
+    bottom: 50%;
+    left: 25%;
+}
+
+p{
+    font-size: 1.5rem;
+    font-family: 'Tangerine', cursive;
+   /* white-space: pre-wrap;*/
+
+}
+.hello{
+    font-size: 2.5rem;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    width:5%;
+    border-color: grey;
+    border-width: 6px;
+    margin: 100px auto;
+}
+.skillsrow{
+    display: inline;
+}
+.html,.css{
+    width: 25%;
+    height: 25%;
+    margin: auto;
+    display: inline;
+    margin: auto 30px auto auto;
+
+}
+h3,a{
+    color: #11999e;
+}
+.html{
+    float: left;
+}
+.css{
+    float: right;
+}
+.htmlskill-description,.cssskill-description{
+    margin: 20px auto 50px auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.para{
+    margin-bottom: 50px;
+    margin: auto;
+    padding: 20px;
+    width: 30%;
+    line-height: 1.5;
+}
+
+.css{
+    margin: auto auto auto 30px;
+}
+.myskill{
+    padding-top: 5%;
+}
+h3,h2{
+    margin: 40px auto 40px auto;
+}
+.but{
+    height: 40px;
+    width: 150px;
+    background-color: #11999e;
+    border-radius: 5px;
+    border: none;
+    margin: 40px auto 80px auto;
+    cursor: pointer;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 200px;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    margin: 40px auto 50px auto;
+}
+.profile{
+    margin-top: 50px;
+}
+.footer-link{
+    padding: 20px;
+    position: relative;
+    top: 40px;
+    font-size: 1.5rem;
+}
+.srinu{
+    position: relative;
+    bottom: 2px;
+    top: 100px;
+    font-size: 1rem;
+}
+.hotwings{
+    width: 40%;
+    margin: 40px auto 40px auto;
+}
+a:hover{
+    color: white;
+}
